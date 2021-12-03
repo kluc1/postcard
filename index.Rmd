@@ -1,0 +1,10 @@
+---
+title: "Cats"
+image: "kuro.JPG"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Kuro is a lazy black cat.
